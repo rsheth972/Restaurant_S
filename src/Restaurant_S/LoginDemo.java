@@ -78,7 +78,7 @@ class Login extends JFrame implements ActionListener
    {
    String value1=text1.getText();
    String value2=text2.getText();
-   if (value1.equals("bhaibhai") && value2.equals("hello123")) {
+   if (value1.equals("Rahil") && value2.equals("hello123")) {
    /*NextPage page=new NextPage();
    page.setVisible(true);
    JLabel label = new JLabel("arey"+value1);
